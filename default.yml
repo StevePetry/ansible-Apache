@@ -1,6 +1,6 @@
 ---
 app_user: "sjpsys"
-http_host: "your_domain"
-http_conf: "your_domain.conf"
+http_host: "sjpansn1.test.rit.edu"
+http_conf: "sjpansn1.conf"
 http_port: "80"
 disable_default: true
